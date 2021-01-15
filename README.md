@@ -1,5 +1,4 @@
-# animal
-
+# Animal Flutter
 A new Flutter project.
 
 ## Getting Started
